@@ -2,6 +2,8 @@
 
 ## Live Site
 
+https://netflix-clone-anna.vercel.app/
+
 ## Built With
 
 • React JS
