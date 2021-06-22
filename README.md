@@ -11,6 +11,4 @@
 
 > HTML, CSS
 
-> FireBase Realtime DataBase
-
 > TMDB API for movie database
