@@ -1,9 +1,6 @@
 # netflix-clone
 
-## Live Site
-https://netflix-clone-anna.vercel.app/
-
-https://netflix-clone-anna.vercel.app/
+## Live Site https://netflix-clone-anna.vercel.app/
 
 ## Built With
 
