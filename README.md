@@ -6,8 +6,10 @@ https://netflix-clone-anna.vercel.app/
 
 ## Built With
 
-• React JS
-• HTML
-• CSS
+> React JS, React Hooks
 
-TMDB API for movie database
+> HTML, CSS
+
+> FireBase Realtime DataBase
+
+> TMDB API for movie database
